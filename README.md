@@ -16,5 +16,5 @@ screen -S volara
 ```
 >
 # additional information
-twitter şifrenizi ve twitter isminizi soracak başında @ işareti olmada yazın.
+twitter şifrenizi ve twitter isminizi soracak başında @ işareti olmadan yazın.
 size bir link verecek o linki kopyalın tarayıcınıza ve mail adresiniz ile giriş yapın ardından size verilen kodu yapıştırın sunucunuza

@@ -1,7 +1,7 @@
 # Volara Node Setup
 # Requirements
 - Ubuntu 22.04.
-- 4 cores, 8 GB RAM 160 gb disk. min sunucu da çalışır
+- 4 cores, 8 GB RAM 160 gb disk. min sunucu da çalışır.
 - ben buna kurdum içinde 5 tane daha node var.
 # Linux Installation
 ```yaml

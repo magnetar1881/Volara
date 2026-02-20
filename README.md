@@ -18,7 +18,7 @@ screen -S volara
 >
 # additional information
 - Metamask private key isteyecek onu yapıştıralım. twitter şifrenizi ve twitter isminizi soracak başında @ işareti olmadan yazın.
-size bir link verecek o linki kopyalın tarayıcınıza ve mail adresiniz ile giriş yapın ardından size verilen kodu yapıştırın sunucunuza
+size bir link verecek o linki kopyalın tarayıcınıza ve mail adresiniz ile giriş yapın ardından size verilen kodu yapıştırın sunucunuza.
 # metamask'a ağı ekleme ve faucet
 - https://faucet.vana.com/moksha
 - https://docs.vana.org/docs/overview#setting-up-the-network

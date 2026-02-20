@@ -1,4 +1,4 @@
-# Volara Node Setup.
+# Volara Node Setup
 # Requirements
 - Ubuntu 22.04.
 - 4 cores, 8 GB RAM 160 gb disk.
